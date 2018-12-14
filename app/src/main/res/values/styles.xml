@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@style/CustomButton</item>
+    </style>
+
+    <style name="CustomButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/custom_button</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+
+    <style name="customToast">
+        <item name="colorBackground">#94ffab</item>
+        <item name="iconLeft">@drawable/toasicon</item>
+        <item name="cornerRadius">3dp</item>
+        <item name="length">LONG</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="textColor">#000</item>
+    </style>
+
+</resources>

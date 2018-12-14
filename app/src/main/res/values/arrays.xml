@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="placeholder">
+        <item>click</item>
+        <item>on</item>
+        <item>search</item>
+        <item>button</item>
+        <item>to</item>
+        <item>show</item>
+        <item>you</item>
+        <item>search</item>
+        <item>results</item>
+    </string-array>
+</resources>
